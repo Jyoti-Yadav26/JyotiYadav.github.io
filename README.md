@@ -1,15 +1,15 @@
 # JyotiYadav.github.io
 # Jyoti Yadav — Data Science Portfolio
 
-🌐 Live Portfolio: https://yourusername.github.io  
-📄 Resume available on website
+Live Portfolio: https://yourusername.github.io  
+Resume available on website
 
-## 👩‍💻 About
+## About
 
 B.Tech CSE (Data Science) student at NSUT (CGPA 8.05) with hands-on experience in  
 machine learning pipelines, data engineering workflows, and database-backed systems.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **Predictive Maintenance Scheduling** — Python, Pandas, NumPy  
 Time-series data pipeline with feature engineering and RUL-based optimization.
@@ -21,11 +21,11 @@ Normalized relational DB system with optimized queries and backend integration.
 Text preprocessing + ML models achieving 92% accuracy.
 
 
-## 🧠 Skills
+## Skills
 
 Python • Java • SQL • Machine Learning • Data Analysis • MySQL • Git • HTML/CSS/JS
 
-## 📬 Contact
+## Contact
 
 📧 jyoti.yadav.ug23@nsut.ac.in  
 💻 https://github.com/Jyoti-Yadav26 
