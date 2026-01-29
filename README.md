@@ -1,7 +1,7 @@
 # JyotiYadav.github.io
 # Jyoti Yadav — Data Science Portfolio
 
-Live Portfolio: https://yourusername.github.io  
+Live Portfolio: https://jyoti-yadav26.github.io/JyotiYadav.github.io/  
 Resume available on website
 
 ## About
